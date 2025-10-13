@@ -1,6 +1,6 @@
-### **O que faz essa belezinha?**
+### **O que faz?**
 
-Essa aplicação é tipo um Google, mas só para as áreas de IAM (Identity and Access Management). Você digita uma palavra-chave, e a mágica acontece: a aplicação te mostra todas as áreas relacionadas que ela encontra na base de dados. É perfeito para quem quer dar uma olhada rápida em um assunto específico ou explorar novos tópicos.
+Você digita uma palavra-chave, e a mágica acontece: a aplicação te mostra todas as áreas relacionadas que ela encontra na base de dados. É perfeito para quem quer dar uma olhada rápida em um assunto específico ou explorar novos tópicos.
 
 ### **Como funciona a mágica?**
 
